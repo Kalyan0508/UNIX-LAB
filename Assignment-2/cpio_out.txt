@@ -1,0 +1,26 @@
+#create a cpio file
+
+
+#extract a cpio file
+
+
+#creating tar using cpio
+
+
+#extract tar using cpio
+
+
+#To create a *.tar archive with selected files
+./hello1.txt
+./tar_out.txt
+./cpio_out.txt
+./hello2.txt
+./hello3.txt
+
+
+#To only view *.tar archive file 
+./hello1.txt
+./tar_out.txt
+./cpio_out.txt
+./hello2.txt
+./hello3.txt
